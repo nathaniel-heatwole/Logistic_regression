@@ -1,8 +1,0 @@
-LOGISTIC REGRESSION SUMMARY
-                sklearn statsmodels
-total obs            20          20
-slope              1.15         1.5
-intercept         -3.14       -4.08
-accuracy            0.8         0.8
-log-likelihood    -8.22       -8.03
-avg probability     0.5         0.5
